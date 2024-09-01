@@ -1,8 +1,5 @@
-[Algorithm Example.pdf](https://github.com/user-attachments/files/16829271/Algorithm.Example.pdf)Certainly! Here’s an updated `README.md` with additional details about the PDF:
 
----
-
-# HierarchicalMemoryManager
+# PageTableHierarchy
 
 ## Introduction
 
