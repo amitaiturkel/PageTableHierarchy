@@ -20,8 +20,8 @@ To build and run the project, follow these steps:
 
 1. **Clone the Repository**:
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/amitaiturkel/PageTableHierarchy.git)
+   cd PageTableHierarchy
    ```
 
 2. **Build the Project**:
